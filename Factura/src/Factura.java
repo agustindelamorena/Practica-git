@@ -1,4 +1,4 @@
-public class Factura
+public abstract class Factura implements IFactura
 {
     public int num;
     public float base;
