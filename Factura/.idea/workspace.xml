@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3e18bb61-40c1-4b11-a9b0-9b717399e613" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="3e18bb61-40c1-4b11-a9b0-9b717399e613" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factura.java" afterDir="false" />
+    </list>
+>>>>>>> 0dc8e53e0577ce8e2f784237e1cd6e3fff4399dd
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,11 +52,16 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1241" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1582047466132">
+    <state x="1241" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1582130870878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+<<<<<<< HEAD
     <state x="1241" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582047466132" />
     <state x="1216" y="275" key="FileChooserDialogImpl" timestamp="1582136501736">
+=======
+    <state x="1241" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582130870878" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581440642724">
+>>>>>>> 0dc8e53e0577ce8e2f784237e1cd6e3fff4399dd
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1216" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582136501736" />
