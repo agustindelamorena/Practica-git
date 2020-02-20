@@ -2,6 +2,7 @@
  * Clase definida como elemento básico a la hora de crear las distintas facturas
  *
  * @author Agustín de la Morena Fernández
+ * @version 0.1.0
  */
 public class Factura implements IFactura
 {

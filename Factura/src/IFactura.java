@@ -5,6 +5,7 @@
  * float getCantidadIva();
  *
  * @author Agustín de la Morena Fernández
+ * @version 0.1.0
  */
 public interface IFactura
 {

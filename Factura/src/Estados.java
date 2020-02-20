@@ -3,6 +3,7 @@
  * APROBADA, PENDIENTE, COBRADA, ANULADA
  *
  * @author Agustín de la Morena Fernández
+ * @version 0.1.0
  */
 public enum Estados
 {
